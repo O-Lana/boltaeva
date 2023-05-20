@@ -1,9 +1,10 @@
-@import './common';
-@import './example';
+// @import './example';
 //UTILS
 
 //BASE
+@import './base/common';
 @import './base/fonts';
+@import './base/container';
 
 //COMPONENTS
 

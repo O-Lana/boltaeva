@@ -5,3 +5,28 @@
   src: url(../fonts/CeraPro-Regular.woff) format('woff'),
     url(../fonts/CeraPro-Regular.woff2);
 }
+
+@font-face {
+  font-family: 'Cera Pro Medium';
+  font-weight: 400;
+
+  src: url(../fonts/CeraPro-Medium.woff) format('woff'),
+    url(../fonts/CeraPro-Medium.woff2);
+}
+
+@font-face {
+  font-family: 'Cera Pro Light';
+  font-weight: 400;
+
+  src: url(../fonts/CeraPro-Light.woff) format('woff'),
+    url(../fonts/CeraPro-Light.woff2);
+}
+
+@font-face {
+  font-family: 'Cera Pro Light Italic';
+  font-style: italic;
+  font-weight: 400;
+
+  src: url(../fonts/CeraPro-LightItalic.woff) format('woff'),
+    url(../fonts/CeraPro-LightItalic.woff2);
+}
