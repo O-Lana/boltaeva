@@ -1,5 +1,7 @@
 // @import './example';
 //UTILS
+@import './utils/variables';
+@import './utils/mixin';
 
 //BASE
 @import './base/common';
@@ -9,3 +11,5 @@
 //COMPONENTS
 
 //LAYOUT
+@import './layout/header';
+@import './layout/hero';

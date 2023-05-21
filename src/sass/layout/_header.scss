@@ -1,0 +1,15 @@
+.header {
+  max-width: 425px;
+  position: relative;
+  background-image: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.2) 0%,
+    rgba(0, 0, 0, 0) 18.23%
+  );
+}
+
+.burger-button__icon {
+  width: 22px;
+  height: 22px;
+  color: var(--main-color);
+}

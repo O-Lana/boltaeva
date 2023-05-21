@@ -1,32 +1,56 @@
 @font-face {
-  font-family: 'Cera Pro Regular';
+  font-family: 'Open Sans Regular';
   font-weight: 400;
+  font-style: normal;
 
-  src: url(../fonts/CeraPro-Regular.woff) format('woff'),
-    url(../fonts/CeraPro-Regular.woff2);
+  src: url('../fonts/OpenSans-Regular.woff') format('woff'),
+    url('../fonts/OpenSans-Regular.woff2') format('woff2');
 }
 
 @font-face {
-  font-family: 'Cera Pro Medium';
-  font-weight: 400;
+  font-family: 'Open Sans SemiBold';
+  font-weight: 600;
+  font-style: normal;
 
-  src: url(../fonts/CeraPro-Medium.woff) format('woff'),
-    url(../fonts/CeraPro-Medium.woff2);
+  src: url(../fonts/OpenSans-SemiBold.woff) format('woff'),
+    url(../fonts/OpenSans-SemiBold.woff2) format('woff2');
 }
 
 @font-face {
-  font-family: 'Cera Pro Light';
-  font-weight: 400;
+  font-family: 'Open Sans Bold';
+  font-weight: 700;
+  font-style: normal;
 
-  src: url(../fonts/CeraPro-Light.woff) format('woff'),
-    url(../fonts/CeraPro-Light.woff2);
+  src: url(../fonts/OpenSans-Bold.woff) format('woff'),
+    url(../fonts/OpenSans-Bold.woff2) format('woff2');
 }
 
 @font-face {
-  font-family: 'Cera Pro Light Italic';
-  font-style: italic;
-  font-weight: 400;
+  font-family: 'Kurale Regular';
+  font-weight: 700;
+  font-style: normal;
 
-  src: url(../fonts/CeraPro-LightItalic.woff) format('woff'),
-    url(../fonts/CeraPro-LightItalic.woff2);
+  src: url(../fonts/Kurale-Regular.woff) format('woff'),
+    url(../fonts/Kurale-Regular.woff2) format('woff2');
 }
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-style: normal;
+
+  src: url(../fonts/Raleway-Bold.woff) format('woff'),
+    url(../fonts/Raleway-Bold.woff2) format('woff2');
+}
+
+// @font-face {
+//     font-family: 'Coming Soon';
+//     font-weight: 600;
+//     src: local('Coming Soon'), local('ComingSoon-Regular'),
+//         /* IE6-IE8 */
+// url('../fonts/caviardreams/caviardreams.woff2') format('woff2'),
+//         /* Super Modern Browsers */
+//         url('../fonts/ComingSoon-Regular.woff') format('woff');
+//     /* Modern Browsers */
+// url('../fonts/caviardreams/caviardreams.ttf') format('truetype');
+// }
